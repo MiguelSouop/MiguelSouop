@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">Développeur full-stack web et mobile passionné, spécialisé en Laravel, PHP, Python, Django, ReactJS, Flutter et TailwindCSS, je
+possède une solide expérience dans la conception d’applications performantes, sécurisées et scalables. Ethical hacker et
+designer web/mobile, je conçois des solutions modernes, élégantes et orientées UX/UI, en alliant expertise technique et sens du
+design.
+Autonome, curieux et créatif, j’accorde une attention particulière à la performance, à l’ergonomie et à la qualité du code. Mon
+objectif est de fournir des applications fiables, optimisées et parfaitement adaptées aux besoins de mes clients.
+.</p>
 
 ###
 
