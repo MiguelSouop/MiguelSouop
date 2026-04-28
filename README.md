@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Développeur full-stack web et mobile passionné, spécialisé en Laravel, PHP, Python, Django, ReactJS, Flutter et TailwindCSS, je
+<p align="left">Développeur full-stack web et mobile passionné, spécialisé en Laravel, PHP, Python, Django, ReactJS, Angular, Flutter et TailwindCSS, je
 possède une solide expérience dans la conception d’applications performantes, sécurisées et scalables. Ethical hacker et
 designer web/mobile, je conçois des solutions modernes, élégantes et orientées UX/UI, en alliant expertise technique et sens du
 design.
