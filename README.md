@@ -1,8 +1,8 @@
-<h1 align="left">Salut👋 , ne visite sur tout pas mon profil !</h1>
+<h1 align="left">Salut👋 , ne visitez sur tout pas mon profil !</h1>
 
 ###
 
-<p align="left">Je suis Miguel Souop develppeur fullstack laravel web et mobile</p>
+<p align="left">Je suis Miguel Souop develppeur fullstack laravel & django web et mobile</p>
 
 ###
 
