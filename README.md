@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Je suis Miguel Souop develppeur fullstack laravel & django web et mobile</p>
+<p align="left">Je suis Miguel Souop develppeur fullstack laravel | django web et mobile</p>
 
 ###
 
